@@ -73,8 +73,8 @@ Website: https://mcsniperpy.com/
 Documentation: https://docs.mcsniperpy.com/
 YouTube tutorial: https://youtu.be/-y2ucB6FYq8
 
-- Easy to use: 9/10
-- Easy to setup: 8/10
+- Easy to use: 8/10
+- Easy to setup: 7/10
 - Community: 10/10
 - Support: 10/10
 - Speed: 7/10
@@ -92,7 +92,7 @@ It also currently has the largest sniping community discord server.
 Link: https://github.com/Kqzz/MCsniperGO
 
 - Easy to use: 8/10
-- Easy to setup: 6/10
+- Easy to setup: 9/10
 - Community: 10/10
 - Support: 9/10
 - Speed: 9/10
@@ -139,14 +139,14 @@ Written in: Python
 ### Yolo-Sniper
 Link: https://github.com/Liza-Developer/Yolo-Sniper
 
-- Easy to use: 6/10
+- Easy to use: 7/10
 - Easy to setup: 6/10
 - Community: 8/10
 - Support: 6/10
 - Speed: 9/10
 - Supports GC sniping: Yes
 - Supports migrated accounts with Microsoft authenticating: Yes
-- Supports namechange sniping: Microsoft only
+- Supports namechange sniping: Yes
 
 Discord server: https://discord.gg/dDB2f3FKYH
 Written in: Go
