@@ -137,7 +137,7 @@ Discord server: https://discord.gg/98ZMYfD9HJ
 Written in: Python
 
 ### Yolo-Sniper
-Link: https://github.com/oTeun/Estime
+Link: https://github.com/Liza-Developer/Yolo-Sniper
 
 - Easy to use: 6/10
 - Easy to setup: 6/10
@@ -203,3 +203,8 @@ There are more discord servers, you can make a pull request if you would like to
 
 ## Final word
 If you have anything to add to this tutorial, please create a pull request. This took very long to make. Please donate. And good luck with sniping.
+How to contact me:
+- Email: teun@teun.lol
+- Website: https://teun.lol/
+- Discord server: https://discord.gg/98ZMYfD9HJ
+- Discord tag: Teun#8740
