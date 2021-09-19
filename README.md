@@ -74,7 +74,7 @@ Documentation: https://docs.mcsniperpy.com/
 YouTube tutorial: https://youtu.be/-y2ucB6FYq8
 
 - Easy to use: 8/10
-- Easy to setup: 7/10
+- Easy to setup: 8/10
 - Community: 10/10
 - Support: 10/10
 - Speed: 7/10
@@ -110,7 +110,7 @@ Link: https://github.com/Geographs/OneSnipe
 Documentation: https://docs.onesnipe.xyz/
 
 - Easy to use: 8/10
-- Easy to setup: 9/10
+- Easy to setup: 6/10
 - Community: 5/10
 - Support: 6/10
 - Speed: 6/10
@@ -125,7 +125,7 @@ Written in: Python
 Link: https://github.com/oTeun/Estime
 
 - Easy to use: 8/10
-- Easy to setup: 9/10
+- Easy to setup: 8/10
 - Community: 6/10
 - Support: 7/10
 - Speed: 8/10
@@ -140,7 +140,7 @@ Written in: Python
 Link: https://github.com/Liza-Developer/Yolo-Sniper
 
 - Easy to use: 6/10
-- Easy to setup: 7/10
+- Easy to setup: 6/10
 - Community: 8/10
 - Support: 6/10
 - Speed: 9/10
@@ -156,7 +156,7 @@ Link: https://github.com/tropicbliss/buckshot
 Documentation: https://buckshot.netlify.app/
 
 - Easy to use: 8/10
-- Easy to setup: 7/10
+- Easy to setup: 6/10
 - Community: 5/10
 - Support: 6/10
 - Speed: 8/10
