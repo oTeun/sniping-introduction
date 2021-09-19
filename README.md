@@ -8,6 +8,16 @@ In this tutorial I will help you start out sniping, and understand the difficult
 When you are first introduced to the concept of sniping, you may expect being able to snipe any username, and hiding usernames from others in an attempt of having a better chance.
 This is not the case, everyone knows which names are dropping when, using [namemc](https://namemc.com "namemc").
 
+## Table of contents
+- [Common terms](https://github.com/oTeun/sniping-introduction#common-terms "Common terms")
+- [Status codes](https://github.com/oTeun/sniping-introduction#status-codes)
+- [Acquiring a bearer token](https://github.com/oTeun/sniping-introduction#acquiring-a-bearer-token)
+- [List of snipers](https://github.com/oTeun/sniping-introduction#list-of-snipers)
+- [How to use delays](https://github.com/oTeun/sniping-introduction#how-to-use-delays)
+- [Where to acquire Virtual Private Servers](https://github.com/oTeun/sniping-introduction#where-to-acquire-virtual-private-servers)
+- [How to find upcoming names](https://github.com/oTeun/sniping-introduction#how-to-find-upcoming-names)
+- [Community servers](https://github.com/oTeun/sniping-introduction#community-servers)
+
 ## Donations
 If you feel like showing your love and/or appreciation for this project, then you may donate at these addresses :)
 #### Bitcoin: 1HbbiMH4XfSmsnfAnWC9LhGtd7QHTu8huf
@@ -36,7 +46,7 @@ In sniping, you may get thrown off by any of these terms. They are used a lot in
 
 - VPS: Virtual Private Server, it is like a computer that you can remotely access. People buy these to get better chance of sniping.
 
-## status codes
+## Status codes
 Most snipers show the response of a namechange request using a status code, I will list the most common status codes here:
 - 200: successfully sniped the name
 - 204: successfully sniped the name
@@ -46,7 +56,7 @@ Most snipers show the response of a namechange request using a status code, I wi
 - 502: the API is currently under high pressure, and was not able to return your request
 - 503: the API is currently under high pressure, and was not able to return your request
 
-## acquiring a bearer token
+## Acquiring a bearer token
 Some snipers require a bearer token in order to snipe.
 In order to change the name of your account, Mojang needs to verify it is you who is sending the request (obviously).
 To do this, the sniper sends a bearer token with the request.
@@ -165,6 +175,8 @@ Link: https://github.com/Miestrode/tango
 Coming soon, for now please watch this YouTube tutorial: https://youtu.be/xvO-tf5kHjo
 
 ## Where to acquire Virtual Private Servers
+> More will be added to this part soon
+
 To get the most out of your sniper, it is **highly** recommended you use a Virtual Private Server, also referred to as VPS. You can buy those at websites such as [vultr](https://vultr.com "vultr") or [digitalocean](https://www.digitalocean.com/ "digitalocean")
 Referral links for discounts: 
 - [digitalocean](https://m.do.co/c/82be9eef6593 "digitalocean")
@@ -173,12 +185,14 @@ Referral links for discounts:
 Tutorial on how to use a VPS to setup a sniper is usually included on the sniper page. You should also watch this video: https://youtu.be/-y2ucB6FYq8
 
 ## How to find upcoming names
+> More will be added to this part soon
+
 The best way to find upcoming names is using [namemc](https://namemc.com "namemc").
 Click on "names" at the top of your screen, and sort by whatever you are looking for.
 The more views these names have, the more people will be going for them.
 
 ## Community servers
-> I sorted these servers by the popularity I have noticed.
+> A list of servers to interact with the sniping community. I sorted these servers by the popularity I have noticed.
 
 MCsniperPY: https://discord.gg/MpxCuwQpR6
 Dismal: https://discord.gg/dDB2f3FKYH
