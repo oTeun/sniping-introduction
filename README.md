@@ -20,6 +20,7 @@ This is not the case, everyone knows which names are dropping when, using [namem
 
 ## Donations
 If you feel like showing your love and/or appreciation for this project, then you may donate at these addresses :)
+
 #### Bitcoin: 1HbbiMH4XfSmsnfAnWC9LhGtd7QHTu8huf
 #### Ethereum: 0xa2EEA432bAa8cFc8972ceB4080C0B57DdEc03303
 
@@ -68,10 +69,10 @@ To acquire your bearer token, you may follow this tutorial made by [Kqzz](https:
 Now that you have a decent understanding of common terms and everything else that I have explained so far, let's list a few free snipers. I will give these snipers ratings based on personal experience.
 
 ### MCsniperPY
-- Link: https://github.com/MCsniperPY/MCsniperPY
-- Website: https://mcsniperpy.com/
-- Documentation: https://docs.mcsniperpy.com/
-- YouTube tutorial: https://youtu.be/-y2ucB6FYq8
+Link: https://github.com/MCsniperPY/MCsniperPY  
+Website: https://mcsniperpy.com/  
+Documentation: https://docs.mcsniperpy.com/  
+YouTube tutorial: https://youtu.be/-y2ucB6FYq8  
 
 - Easy to use: 8/10
 - Easy to setup: 8/10
@@ -82,14 +83,14 @@ Now that you have a decent understanding of common terms and everything else tha
 - Supports migrated accounts with Microsoft authenticating: No
 - Supports namechange sniping: Yes
 
-- Discord server: https://discord.gg/MpxCuwQpR6
-- Written in: Python
+Discord server: https://discord.gg/MpxCuwQpR6  
+Written in: Python  
 
 > MCsniperPY has been the leading free open source name sniper since August 2020, and offers great support including documentation and tutorials.
 It also currently has the largest sniping community discord server.
 
 ### MCsniperGO
-- Link: https://github.com/Kqzz/MCsniperGO
+Link: https://github.com/Kqzz/MCsniperGO  
 
 - Easy to use: 8/10
 - Easy to setup: 9/10
@@ -100,14 +101,14 @@ It also currently has the largest sniping community discord server.
 - Supports migrated accounts with Microsoft authenticating: Yes
 - Supports namechange sniping: Yes
 
-- Discord server: https://discord.gg/MpxCuwQpR6
-- Written in: Go
+Discord server: https://discord.gg/MpxCuwQpR6  
+Written in: Go  
 
 > MCsniperGO was written by [the same developer](https://github.com/Kqzz "the same developer") that wrote MCsniperPY. It is faster than MCsniperPY, because it is written in Go.
 
 ### OneSnipe
-- Link: https://github.com/Geographs/OneSnipe
-- Documentation: https://docs.onesnipe.xyz/
+Link: https://github.com/Geographs/OneSnipe  
+Documentation: https://docs.onesnipe.xyz/  
 
 - Easy to use: 8/10
 - Easy to setup: 6/10
@@ -118,11 +119,11 @@ It also currently has the largest sniping community discord server.
 - Supports migrated accounts with Microsoft authenticating: Yes
 - Supports namechange sniping: Yes
 
-- Discord server: N/A
-- Written in: Python
+Discord server: N/A  
+Written in: Python  
 
 ### Estime
-- Link: https://github.com/oTeun/Estime
+Link: https://github.com/oTeun/Estime
 
 - Easy to use: 8/10
 - Easy to setup: 8/10
@@ -133,11 +134,11 @@ It also currently has the largest sniping community discord server.
 - Supports migrated accounts with Microsoft authenticating: Bearer token only
 - Supports namechange sniping: Mojang only
 
-- Discord server: https://discord.gg/98ZMYfD9HJ
-- Written in: Python
+Discord server: https://discord.gg/98ZMYfD9HJ  
+Written in: Python  
 
 ### Yolo-Sniper
-- Link: https://github.com/Liza-Developer/Yolo-Sniper
+Link: https://github.com/Liza-Developer/Yolo-Sniper
 
 - Easy to use: 6/10
 - Easy to setup: 6/10
@@ -148,12 +149,12 @@ It also currently has the largest sniping community discord server.
 - Supports migrated accounts with Microsoft authenticating: Yes
 - Supports namechange sniping: Yes
 
-- Discord server: https://discord.gg/dDB2f3FKYH
-- Written in: Go
+Discord server: https://discord.gg/dDB2f3FKYH  
+Written in: Go  
 
 ### buckshot
-- Link: https://github.com/tropicbliss/buckshot
-- Documentation: https://buckshot.netlify.app/
+Link: https://github.com/tropicbliss/buckshot  
+Documentation: https://buckshot.netlify.app/  
 
 - Easy to use: 8/10
 - Easy to setup: 6/10
@@ -164,46 +165,43 @@ It also currently has the largest sniping community discord server.
 - Supports migrated accounts with Microsoft authenticating: Yes
 - Supports namechange sniping: Yes
 
-- Discord server: N/A
-- Written in: Rust
+Discord server: N/A  
+Written in: Rust  
 
 ### tango
-- Link: https://github.com/Miestrode/tango
-
+Link: https://github.com/Miestrode/tango
 > I'm not sure if this sniper still works, if I found out more info I will add it soon
 
 ## How to use delays
-Coming soon, for now please watch this YouTube tutorial: https://youtu.be/xvO-tf5kHjo
+Coming soon, for now please watch this YouTube tutorial: https://youtu.be/xvO-tf5kHjo  
 
 ## Where to acquire Virtual Private Servers
 > More will be added to this part soon
 
-To get the most out of your sniper, it is **highly** recommended you use a Virtual Private Server, also referred to as VPS.
-You can buy those at websites such as [vultr](https://vultr.com "vultr") or [digitalocean](https://www.digitalocean.com/ "digitalocean").
-#### Referral links for discounts: 
+To get the most out of your sniper, it is **highly** recommended you use a Virtual Private Server, also referred to as VPS. You can buy those at websites such as [vultr](https://vultr.com "vultr") or [digitalocean](https://www.digitalocean.com/ "digitalocean")  
+Referral links for discounts: 
 - [digitalocean](https://m.do.co/c/82be9eef6593 "digitalocean")
 - [vultr](https://www.vultr.com/?ref=8893010 "vultr")
 
-> Tutorial on how to use a VPS to setup a sniper is usually included on the sniper page. You should also watch this video: https://youtu.be/-y2ucB6FYq8
+Tutorial on how to use a VPS to setup a sniper is usually included on the sniper page. You should also watch this video: https://youtu.be/-y2ucB6FYq8
 
 ## How to find upcoming names
 > More will be added to this part soon
 
-> The best way to find upcoming names is using [namemc](https://namemc.com "namemc"), click on "names" at the top of your screen, and sort by whatever you are looking for. The more views these names have, the more people will be going for them.
+The best way to find upcoming names is using [namemc](https://namemc.com "namemc"), click on "names" at the top of your screen, and sort by whatever you are looking for. The more views these names have, the more people will be going for them.
 
 ## Community servers
-A list of servers to interact with the sniping community. I sorted these servers by the popularity I have noticed.
+> A list of servers to interact with the sniping community. I sorted these servers by the popularity I have noticed.
 
-- MCsniperPY: https://discord.gg/MpxCuwQpR6
-- Dismal: https://discord.gg/dDB2f3FKYH
-- Poseidon: https://discord.gg/FPfMqDyJms
-- Scythe: https://discord.gg/Nt9FazZG2x
+- MCsniperPY: https://discord.gg/MpxCuwQpR6  
+- Dismal: https://discord.gg/dDB2f3FKYH  
+- Poseidon: https://discord.gg/FPfMqDyJms  
+- Scythe: https://discord.gg/Nt9FazZG2x  
 
-> There are more discord servers, you can make a pull request if you would like to add on to this list
+There are more discord servers, you can make a pull request if you would like to add on to this list
 
 ## Final word
-> If you have anything to add to this tutorial, please create a pull request. This took very long to make. Please donate. And good luck with sniping.
-> How to contact me:
+If you have anything to add to this tutorial, please create a pull request. This took very long to make. Please donate. And good luck with sniping.  How to contact me:
 - Email: teun@teun.lol
 - Website: https://teun.lol/
 - Discord server: https://discord.gg/98ZMYfD9HJ
