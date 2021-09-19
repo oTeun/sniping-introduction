@@ -57,7 +57,7 @@ To acquire your bearer token, you may follow this tutorial made by [Kqzz](https:
 ## List of snipers
 Now that you have a decent understanding of common terms and everything else that I have explained so far, let's list a few free snipers. I will give these snipers ratings based on personal experience.
 
-#### MCsniperPY
+### MCsniperPY
 Link: https://github.com/MCsniperPY/MCsniperPY
 Website: https://mcsniperpy.com/
 Documentation: https://docs.mcsniperpy.com/
@@ -78,7 +78,7 @@ Written in: Python
 > MCsniperPY has been the leading free open source name sniper since August 2020, and offers great support including documentation and tutorials.
 It also currently has the largest sniping community discord server.
 
-#### MCsniperGO
+### MCsniperGO
 Link: https://github.com/Kqzz/MCsniperGO
 
 - Easy to use: 8/10
@@ -95,7 +95,7 @@ Written in: Go
 
 > MCsniperGO was written by [the same developer](https://github.com/Kqzz "the same developer") that wrote MCsniperPY. It is faster than MCsniperPY, because it is written in Go.
 
-#### OneSnipe
+### OneSnipe
 Link: https://github.com/Geographs/OneSnipe
 Documentation: https://docs.onesnipe.xyz/
 
@@ -111,7 +111,7 @@ Documentation: https://docs.onesnipe.xyz/
 Discord server: N/A
 Written in: Python
 
-#### Estime
+### Estime
 Link: https://github.com/oTeun/Estime
 
 - Easy to use: 8/10
@@ -126,7 +126,7 @@ Link: https://github.com/oTeun/Estime
 Discord server: https://discord.gg/98ZMYfD9HJ
 Written in: Python
 
-#### Yolo-Sniper
+### Yolo-Sniper
 Link: https://github.com/oTeun/Estime
 
 - Easy to use: 6/10
@@ -141,7 +141,7 @@ Link: https://github.com/oTeun/Estime
 Discord server: https://discord.gg/dDB2f3FKYH
 Written in: Go
 
-#### buckshot
+### buckshot
 Link: https://github.com/tropicbliss/buckshot
 Documentation: https://buckshot.netlify.app/
 
@@ -157,7 +157,7 @@ Documentation: https://buckshot.netlify.app/
 Discord server: N/A
 Written in: Rust
 
-#### tango
+### tango
 Link: https://github.com/Miestrode/tango
 > I'm not sure if this sniper still works, if I found out more info I will add it soon
 
