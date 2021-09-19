@@ -139,8 +139,8 @@ Written in: Python
 ### Yolo-Sniper
 Link: https://github.com/Liza-Developer/Yolo-Sniper
 
-- Easy to use: 7/10
-- Easy to setup: 6/10
+- Easy to use: 6/10
+- Easy to setup: 7/10
 - Community: 8/10
 - Support: 6/10
 - Speed: 9/10
