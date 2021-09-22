@@ -11,6 +11,7 @@ This is not the case, everyone knows which names are dropping when, using [namem
 ## Table of contents
 - [Common terms](https://github.com/oTeun/sniping-introduction#common-terms "Common terms")
 - [Status codes](https://github.com/oTeun/sniping-introduction#status-codes)
+- [Ratelimits](https://github.com/oTeun/sniping-introduction#ratelimits)
 - [Acquiring a bearer token](https://github.com/oTeun/sniping-introduction#acquiring-a-bearer-token)
 - [List of snipers](https://github.com/oTeun/sniping-introduction#list-of-snipers)
 - [How to use delays](https://github.com/oTeun/sniping-introduction#how-to-use-delays)
@@ -54,8 +55,18 @@ Most snipers show the response of a namechange request using a status code, I wi
 - 400: the name is not currently available, your request was sent either too late or too early
 - 401: unauthorized, the bearer token that you sent your request with is invalid
 - 403: the name is not currently available, your request was sent either too late or too early
+- 429: you have sent too many requests, and are currently ratelimited
 - 502: the API is currently under high pressure, and was not able to return your request
 - 503: the API is currently under high pressure, and was not able to return your request
+
+## Ratelimits
+When you send too many requests in a short amount of time, you will be ratelimited by the API.  
+The ratelimits are as following:
+- Namechange account ratelimit: you can send 3 namechange requests per account per minute
+- Namechange IP ratelimit: you can send 2 namechange requests per IP per minute
+- Giftcode account ratelimit: you can send 6 claim requests per account per minute
+- Giftcode IP ratelimit: you can send 60 claim requests per account per minute
+If you do not follow these limits, you will receive status code 429.
 
 ## Acquiring a bearer token
 Some snipers require a bearer token in order to snipe.
