@@ -66,6 +66,7 @@ The ratelimits are as following:
 - Namechange IP ratelimit: you can send 2 namechange requests per IP per minute
 - Giftcode account ratelimit: you can send 6 claim requests per account per minute
 - Giftcode IP ratelimit: you can send 60 claim requests per account per minute
+
 If you do not follow these limits, you will receive status code 429.
 
 ## Acquiring a bearer token
