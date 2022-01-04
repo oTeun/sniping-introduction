@@ -1,5 +1,5 @@
 # Introduction to minecraft name sniping
-*This page was last updated on 09/22/2021*
+*This page was last updated on Jan 4th 2022*
 
 ## Welcome
 If you're here, I suppose you want to start sniping minecraft usernames, but have no idea where to start.
