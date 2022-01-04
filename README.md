@@ -9,7 +9,7 @@ When you are first introduced to the concept of sniping, you may expect being ab
 This is not the case, everyone knows which names are dropping when, using [namemc](https://namemc.com "namemc").
 
 ## Table of contents
-- [Common terms](https://github.com/oTeun/sniping-introduction#common-terms "Common terms")
+- [Common terms](https://github.com/oTeun/sniping-introduction#common-terms)
 - [Status codes](https://github.com/oTeun/sniping-introduction#status-codes)
 - [Ratelimits](https://github.com/oTeun/sniping-introduction#ratelimits)
 - [Acquiring a bearer token](https://github.com/oTeun/sniping-introduction#acquiring-a-bearer-token)
@@ -103,6 +103,7 @@ It also currently has the largest sniping community discord server.
 
 ### MCsniperGO
 Link: https://github.com/Kqzz/MCsniperGO  
+YouTube tutorial: https://www.youtube.com/watch?v=fYh63k79A2A  
 
 - Easy to use: 8/10
 - Easy to setup: 9/10
@@ -185,36 +186,35 @@ Link: https://github.com/Miestrode/tango
 > I'm not sure if this sniper still works, if I found out more info I will add it soon
 
 ## How to use delays
-Coming soon, for now please watch this YouTube tutorial: https://youtu.be/xvO-tf5kHjo  
+There is no such thing as a "perfect delay", I recommend starting with 50 and just trying different stuff until you notice you're getting names.  
+Delays are also different depending on your ping and the sniper you are using.  
 
 ## Where to acquire Virtual Private Servers
 > More will be added to this part soon
 
-To get the most out of your sniper, it is **highly** recommended you use a Virtual Private Server, also referred to as VPS. You can buy those at websites such as [vultr](https://vultr.com "vultr") or [digitalocean](https://www.digitalocean.com/ "digitalocean")  
+To get the most out of your sniper, it is **highly** recommended you use a Virtual Private Server, also referred to as VPS. You can buy those at websites such as [vultr](https://vultr.com) or [digitalocean](https://www.digitalocean.com/)  
 Referral links for discounts: 
-- [digitalocean](https://m.do.co/c/82be9eef6593 "digitalocean")
-- [vultr](https://www.vultr.com/?ref=8893010 "vultr")
+- [digitalocean](https://m.do.co/c/82be9eef6593)
+- [vultr](https://www.vultr.com/?ref=8893010)
 
-Tutorial on how to use a VPS to setup a sniper is usually included on the sniper page. You should also watch this video: https://youtu.be/-y2ucB6FYq8
+Tutorial on how to use a VPS to setup a sniper is usually included on the sniper page. You should also watch this video: https://youtu.be/-y2ucB6FYq8  
 
 ## How to find upcoming names
 > More will be added to this part soon
 
-The best way to find upcoming names is using [namemc](https://namemc.com "namemc"), click on "names" at the top of your screen, and sort by whatever you are looking for. The more views these names have, the more people will be going for them.
+The best way to find upcoming names is using [namemc](https://namemc.com/), click on "names" at the top of your screen, and sort by whatever you are looking for. Usually the more views these names have, the more people will be going for them.
 
 ## Community servers
 > A list of servers to interact with the sniping community. I sorted these servers by the popularity I have noticed.
 
-- MCsniperPY: https://discord.gg/MpxCuwQpR6  
-- Dismal: https://discord.gg/dDB2f3FKYH  
-- Poseidon: https://discord.gg/FPfMqDyJms  
-- Scythe: https://discord.gg/Nt9FazZG2x  
+- MCsniperGO: https://discord.gg/MpxCuwQpR6  
 
+I removed the other servers because theyre really inactive.  
 There are more discord servers, you can make a pull request if you would like to add on to this list
 
 ## Final word
 If you have anything to add to this tutorial, please create a pull request. This took very long to make. Please donate. And good luck with sniping.  How to contact me:
+- Discord: Teun#8740
 - Email: teun@teun.lol
 - Website: https://teun.lol/
-- Discord server: https://discord.gg/98ZMYfD9HJ
-- Discord tag: Teun#8740
+- Discord server: https://discord.gg/98ZMYfD9HJ or https://dsc.gg/pos
