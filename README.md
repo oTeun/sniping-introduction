@@ -3,10 +3,10 @@
 
 ## Welcome
 If you're here, I suppose you want to start sniping minecraft usernames, but have no idea where to start.
-I have been in the sniping scene since 06/06/2020, being introduced by [xinabox](https://www.youtube.com/user/XinaboxGaming "xinabox").
+I have been in the sniping scene since 06/06/2020, being introduced by [xinabox](https://www.youtube.com/user/XinaboxGaming).
 In this tutorial I will help you start out sniping, and understand the difficulties coming with that.
 When you are first introduced to the concept of sniping, you may expect being able to snipe any username, and hiding usernames from others in an attempt of having a better chance.
-This is not the case, everyone knows which names are dropping when, using [namemc](https://namemc.com "namemc").
+This is not the case, everyone knows which names are dropping when, using [namemc](https://namemc.com).
 
 ## Table of contents
 - [Common terms](https://github.com/oTeun/sniping-introduction#common-terms)
@@ -55,9 +55,10 @@ Most snipers show the response of a namechange request using a status code, I wi
 - 400: the name is not currently available, your request was sent either too late or too early
 - 401: unauthorized, the bearer token that you sent your request with is invalid
 - 403: the name is not currently available, your request was sent either too late or too early
-- 429: you have sent too many requests, and are currently ratelimited
+- 429: you have sent too many requests, and are currently ratelimited ([read more here](https://github.com/oTeun/sniping-introduction#ratelimits))
 - 502: the API is currently under high pressure, and was not able to return your request
 - 503: the API is currently under high pressure, and was not able to return your request
+- 504: the API is currently under high pressure, and was not able to return your request
 
 ## Ratelimits
 When you send too many requests in a short amount of time, you will be ratelimited by the API.  
@@ -183,7 +184,7 @@ Written in: Rust
 
 ### tango
 Link: https://github.com/Miestrode/tango
-> I'm not sure if this sniper still works, if I found out more info I will add it soon
+> I'm not sure if this sniper still works, if/when I find out more about this I will add it soon
 
 ## How to use delays
 There is no such thing as a "perfect delay", I recommend starting with 50 and just trying different stuff until you notice you're getting names.  
